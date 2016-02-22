@@ -1,3 +1,41 @@
 body {
-	background-color: lightblue;
+	background-image: url("images/bg.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-color: gray;
+}
+
+html {
+	height: 100%;
+}
+
+nav {
+	display: block;
+	background-color: #339966;
+	height: 50px;
+	line-height: 50px;
+	padding-left: 100px;
+}
+
+a.navbar {
+	color: white;
+	text-decoration: none;
+	padding: 0 50px;
+}
+
+.text {
+	background-color: white;
+	padding: 15px;	
+}
+
+.content {
+	width: 900px;
+	margin: 0 auto;
+	font-family: "Garamond", serif;
+	font-size: 19px;
+}
+
+.project_img {
+	width: 40%;
+	height: auto;
 }
