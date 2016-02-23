@@ -14,7 +14,6 @@ nav {
 	background-color: #339966;
 	height: 50px;
 	line-height: 50px;
-	padding-left: 100px;
 }
 
 a.navbar {
@@ -36,6 +35,12 @@ a.navbar {
 }
 
 .project_img {
-	width: 40%;
+	width: 300px;
 	height: auto;
+}
+
+ul li {
+	margin-left: ;
+	display: inline;
+	list-style: none;
 }
