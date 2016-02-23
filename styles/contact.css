@@ -40,7 +40,7 @@ ul li {
 	font-size: 19px;
 }
 
-.project_img {
-	width: 300px;
-	height: auto;
+.icon {
+	width: 40px;
+	height: 40px;
 }
